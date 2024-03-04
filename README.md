@@ -81,4 +81,4 @@ Free Proxy Trial: New users can avail a 1GB proxy free trial to test the service
 <h3>Conclusion</h3>
 
 While BlockAway serves as a potent free web proxy, offering access to blocked content and enhanced privacy, users should be mindful of potential risks. For users seeking a premium proxy experience with comprehensive features, OkeyProxy stands as a viable alternative, providing reliability and security for diverse proxy needs.
-0 comments on commit e93704a
+https://www.okeyproxy.com/proxy/blockaway-free-proxy-for-website-unblocked/
